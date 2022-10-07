@@ -1,0 +1,5 @@
+/.venv
+
+/bazel-*
+/out
+
